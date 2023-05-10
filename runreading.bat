@@ -1,0 +1,1 @@
+php c:\xampp\htdocstestApp\reading.php
